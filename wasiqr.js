@@ -60,19 +60,10 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃MAFIA-MD SESSION IS 
+┃lynx-md SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED 
 ┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 AWAN ZADA 👑𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please subscribe My Support Channel
-Wanna talk to me?👉 https://youtube.com/@mafiamdbot 👈
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 MAFIA ADEEL*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
